@@ -1,5 +1,16 @@
-# santoro
+### Boas vindas ao meu perfil 💙
 
-meu nome é caio tendeu
+Meu nome é Caio
 
-me segue no ig @santoro.xz
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+### Você entrar em contato comigo 📫
+
+caio.lara.teixeira@escola.pr.gov.br
+
+![](https://media.tenor.com/XsFYCdV_mfQAAAAd/cat-annoyed.gif)
